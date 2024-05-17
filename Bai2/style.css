@@ -1,0 +1,7 @@
+input {
+    background-color:rgb(235, 241, 254) ;
+}
+.nd{
+    border: 1px solid blue;
+    width: fit-content ; 
+}

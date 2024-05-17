@@ -1,0 +1,26 @@
+* {
+    margin: auto 0 ;
+    padding: 0 ;
+}
+.form__TinhLuong {
+    padding: 50px;
+    height: 100%
+}
+.form_Salary {
+
+    margin: auto;
+    width: fit-content;
+    background-color: #EE9F38;
+    padding: 20px;
+}
+input {
+    margin: 10px 0px;
+}
+table tr td:nth-child(2) {
+    padding-left: 10px;
+}
+
+.btn_cal_salary {
+    border-radius: 10px;
+    padding: 0px 10px;
+}

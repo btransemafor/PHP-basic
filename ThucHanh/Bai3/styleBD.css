@@ -1,0 +1,14 @@
+.TenSV, .ten {
+    color: rgb(96, 19, 245);
+}
+table , tr ,td {
+    border: 2px solid orangered;
+    border-collapse: collapse;
+    background-color: rgb(246, 207, 154);
+}
+.TableScore{
+    margin-bottom: 15px;
+    border: 2px solid;
+    width: fit-content;
+    padding: 10px;
+}

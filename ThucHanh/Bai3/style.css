@@ -1,0 +1,13 @@
+.Login {
+    width: fit-content;
+    background-color: rgb(245, 207, 205);
+    padding: 5px 15px;
+}
+
+table tr:last-child {
+    text-align: center;
+}
+
+input[type='submit'] {
+    border-radius: 10px;
+}

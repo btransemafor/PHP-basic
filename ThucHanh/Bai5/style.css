@@ -1,0 +1,28 @@
+.PhanSo {
+    width: fit-content;
+    border: 3px solid blue ;
+    padding: 10px;
+}
+#PS{
+    display: flex;
+    background-color: rgb(203, 204, 251);
+    width: fit-content;
+}
+
+.left {
+    border: 2px solid rgb(225, 38, 225);  
+    padding: 10px;
+}
+.left input:not(input[type='submit']) {
+    width: 30%;
+    margin: 10px;
+}
+input[type='submit'] {
+    border-radius: 10px;
+    width: 50px;
+}
+.right  {
+    border-top:  2px solid rgb(225, 38, 225);   ; 
+    border-bottom: 2px solid rgb(225, 38, 225); 
+    border-right: 2px solid rgb(225, 38, 225); 
+}

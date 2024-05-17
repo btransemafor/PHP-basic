@@ -1,0 +1,11 @@
+h2{
+    color: rgb(34, 84, 246)
+}
+p {
+    color: rgb(0, 0, 149);
+}
+.INFO{
+    border: 2px solid;
+    width: fit-content;
+    padding: 10px;
+}
